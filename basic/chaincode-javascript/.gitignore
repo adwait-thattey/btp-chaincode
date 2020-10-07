@@ -1,8 +1,3 @@
-#
-# SPDX-License-Identifier: Apache-2.0
-#
-
-# Coverage directory used by tools like istanbul
 coverage
 
 # Report cache used by istanbul
